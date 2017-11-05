@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Map
+comment1.params=
+comment1.target=Map()
+comment2.params=
+comment2.target=java.lang.String\ displayTile()
+comment3.params=
+comment3.target=void\ printMap()
+comment4.params=a\ hasBoat
+comment4.target=boolean\ playerMovement(int,\ boolean)
+numComments=5

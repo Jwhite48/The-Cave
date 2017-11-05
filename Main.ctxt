@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=java.lang.String\ giveName()
+comment3.params=wav2\ p
+comment3.target=void\ bossFight(Sound,\ Player)
+comment4.params=p
+comment4.target=void\ items(Player)
+comment5.params=p\ m\ wav3\ wav4
+comment5.target=void\ chance(Player,\ Map,\ Sound,\ Sound)
+comment6.params=p\ mon
+comment6.target=int\ battle(Player,\ Monster)
+comment7.params=
+comment7.target=void\ clear()
+comment8.params=x
+comment8.target=void\ wait(int)
+numComments=9
